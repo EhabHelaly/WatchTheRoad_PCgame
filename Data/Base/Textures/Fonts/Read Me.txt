@@ -1,0 +1,12 @@
+Angel Bitmap Font Settings:
+- Export font as 'Unicode' (it should work in ANSI mode)
+- Set 'Equalize the cell heigths' because Lavgine use fixed line rendering (use more texture space but it is still faster)
+- Bit depth: 32 bits
+- Chanells:
+	Alpha: Encoded glyph & outline
+	RGB: glyph
+- Use 'Text' format and 'PNG' images
+- Try to fit all characters into one 'Texture'
+- Don't use too many Unicode characters in one font
+- Use basic and one language specific letters
+- Kernings are not required (They are disabled anyways).

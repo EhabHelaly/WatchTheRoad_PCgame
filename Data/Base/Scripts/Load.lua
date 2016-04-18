@@ -1,0 +1,6 @@
+-- Open main menu window
+--GUI.Window.Open("WMainMenu");
+--Tiles = Texture.Load("Tiles.png");
+--Texture.Load("Img_0.png");
+--Texture.Load("Img_1.png");
+--Texture.Load("Img_2.png");

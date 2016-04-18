@@ -1,0 +1,23 @@
+[skills]
+	ghost
+	gun
+	bazooka
+	coin magnet
+	freeze
+[coins]
+	super sonic speed
+[police]
+	2 car engagment
+	3 car engagment
+	full block the road engagment
+	helicopter engagment
+	update evade sequence
+[crash]
+	car collisions
+	car shake
+[game]
+	car unlock
+	remove car change each level
+	high scores 
+	in game currency for(guns,life cards)
+	
