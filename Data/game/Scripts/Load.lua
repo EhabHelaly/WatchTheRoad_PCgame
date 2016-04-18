@@ -3,15 +3,7 @@
 -- all things for your game
 --=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
--- This functions genereates small documentation with all functions
--- you can use in scripts (located in: "Data" folder)
-Script.SaveCmds();
 
--- You can also execute script from diffrent file
--- Second argument should be set to TRUE if script is in loop
--- Exec("OtherScript.lua", false);
-
--- First we set two global variables for our example
 Window.SetScreenSize(800,700);
 trans=0
 T_exit=nil;
